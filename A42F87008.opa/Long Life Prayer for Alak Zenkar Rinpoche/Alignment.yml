@@ -1,0 +1,33 @@
+segment_sources:
+  PF5724065:
+    type: origin_type
+    relation: translation
+    language: en
+  P1354710D:
+    type: origin_type
+    relation: translation
+    language: es
+  PDD604463:
+    type: origin_type
+    relation: translation
+    language: fr
+  P4A2FAFEA:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  6a2f5ed34acc4f668013ab4cd7244937:
+    PF5724065: b0ca273da025445a94a43999d13395a2
+    P1354710D: de78bbdea5fe42c0b6c2d762c9d6aea9
+    PDD604463: 8e54decb3be342f3ba9016cbc2854696
+    P4A2FAFEA: df8e77244a994b34b150893532a3a279
+  a859854c246647539b7473bf17202fc1:
+    PF5724065: 756975cefc3249baafe396f75363becc
+    P1354710D: 13a48863ff19424e9a36244ddb0577d1
+    PDD604463: f701b795916d4fbab4b045867f24575f
+    P4A2FAFEA: 7cd672190fd94f42bc87f078e0375b75
+  6456bef1a57b46758ae1b80aa0863f05:
+    PF5724065: 2d5bb9a4a4604e27a8b9707c9a674946
+    P1354710D: aac2bedb42f34ee2a075a3321d190bdc
+    PDD604463: f496f75ff5f141079a592eea77ba7156
+    P4A2FAFEA: 3c39dd66a2764aef9582db48b48d09cf

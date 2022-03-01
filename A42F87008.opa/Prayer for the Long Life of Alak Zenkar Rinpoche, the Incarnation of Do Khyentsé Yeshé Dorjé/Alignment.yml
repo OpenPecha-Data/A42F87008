@@ -1,0 +1,19 @@
+segment_sources:
+  PF5724065:
+    type: origin_type
+    relation: translation
+    language: en
+  P4A2FAFEA:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  9e052310e7284e3992cb697b6398b1a9:
+    PF5724065: 1616a1ed03cb4073b85b606f6d4df66b
+    P4A2FAFEA: 375b01e6992a4b728429852dcd41bdef
+  207400eba6cd42eb9505ee767ef4cfd8:
+    PF5724065: 99651b11939d418181ba74ab90bb4e78
+    P4A2FAFEA: a7766756aadd421090d89e5aa9c13142
+  e029376ea6654131ab60e9218fa29f3d:
+    PF5724065: a24104d7ea3447858251877d649812f8
+    P4A2FAFEA: a8733c106fd941929246646833b00ac6
